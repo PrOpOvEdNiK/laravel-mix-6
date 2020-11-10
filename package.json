@@ -1,5 +1,5 @@
 {
-    "name": "laravel-mix",
+    "name": "laravel-mix-with-svg-spritemap",
     "version": "1.0",
     "description": "",
     "scripts": {

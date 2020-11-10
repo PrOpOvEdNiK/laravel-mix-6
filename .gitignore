@@ -1,0 +1,4 @@
+node_modules
+*.lock
+/public
+/src/sass/include/sprite*
